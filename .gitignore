@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+venv/
+instance/
+static/audio/*.mp3  # Para no subir los audios generados al repo Git
+static/audio/*.wav  # Si usaras WAV
+# Cualquier otro archivo/carpeta que no quieras en Git
